@@ -8,12 +8,12 @@
 </div>
 
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erenkk1&theme=dark&show_icons=true&locale=en&layout=compact" alt="Erenkk1"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SeaVortex&theme=dark&show_icons=true&locale=en" alt="Erenkk1"  ></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erenkk1&theme=dark&show_icons=true&locale=en&layout=compact" alt="Erenkk1"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=erenkk1&theme=dark&show_icons=true&locale=en" alt="Erenkk1"  ></p>
 <hr />
 
 🔗 &nbsp;**Contact with me**
 <p align="left">
-<a href="https://discord.gg/7RAey47Yqt" target"blank_"><img src="https://img.shields.io/badge/Sea Team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/7RAey47Yqt" target"blank_"><img src="https://img.shields.io/badge/beathonsuteam%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/4h2r2y7tw3l06a5cwu5m6cs5w" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/erenkrktk" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=SeaVortex&color=dc143c"/>
